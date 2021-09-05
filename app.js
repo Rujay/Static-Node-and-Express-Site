@@ -2,9 +2,12 @@ const express = require ('express');
 
 const app = express();
 
+const port = process.env.PORT || 3000;
+
+//Template engine
 app.set('view engine', 'pug');
 
-//static middleware
+//static files middleware
 app.use(express.static('./public'));
 
 //routes
@@ -36,6 +39,6 @@ app.use((err, req, res, next) => {
 });
 
 
-app.listen(3000, function () {
-    console.log('App running on port 3000');
+app.listen(port, function () {
+    console.log(`App running on port ${port}`);
 })
