@@ -1,0 +1,56 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Student Directory",
+            "description": "A directory containing Student data, allowing users to search for students by name.",
+            "technologies": ["JavaScript, HTML, CSS"],
+            "live_link": "https://rujay.github.io/Data-Pagination-and-Filtering/",
+            "github_link": "https://github.com/Rujay/Data-Pagination-and-Filtering",
+            "image_urls": [
+                "/images/project_1/small.png",
+                "/images/project_1/large.png"
+            ]
+
+        },
+        {
+            "id": 1,
+            "project_name": "Interactive Form",
+            "description": "An interactive form for a Full-stack Javascript conference, using regex to validate form fields.",
+            "technologies": ["JavaScript, HTML, CSS"],
+            "live_link": "https://rujay.github.io/Interactive-Form/",
+            "github_link": "https://github.com/Rujay/Interactive-Form",
+            "image_urls": [
+                "/images/project_2/small.png",
+                "/images/project_2/large.png"
+            ]
+
+        },
+        {
+            "id": 2,
+            "project_name": "OOP Game Show App",
+            "description": "Similar to the popular game show \"Wheel of Fortune\" this app challenges players to guess the hidden phrase. Users are awarded five lives at the beginning of the game and will lose a life if they guess an incorrect letter. The game ends whenever the player has lost all their lives or have guessed all the correct letters of the phrase.",
+            "technologies": ["JavaScript, HTML, CSS"],
+            "live_link": "https://rujay.github.io/OOP-Game-Show-App/",
+            "github_link": "https://github.com/Rujay/OOP-Game-Show-App",
+            "image_urls": [
+                "/images/project_3/small.png",
+                "/images/project_3/large.png"
+            ]
+
+        },
+        {
+            "id": 3,
+            "project_name": "Public API Request",
+            "description": "An employee directory created by communicating with a third party API.",
+            "technologies": ["JavaScript, HTML, CSS"],
+            "live_link": "https://rujay.github.io/Public-API-Request/",
+            "github_link": "https://github.com/Rujay/Public-API-Request",
+            "image_urls": [
+                "/images/project_4/small.png",
+                "/images/project_4/large.png"
+            ]
+
+        }
+    ]
+}
