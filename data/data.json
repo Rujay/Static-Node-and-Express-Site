@@ -51,6 +51,19 @@
                 "/images/project_4/large.png"
             ]
 
+        },
+        {
+            "id": 4,
+            "project_name": "Random Quote Generator",
+            "description": "Generates a random quote every 5 seconds.",
+            "technologies": ["JavaScript, HTML, CSS"],
+            "live_link": "https://rujay.github.io/Random-Quote-Generator/",
+            "github_link": "https://github.com/Rujay/Random-Quote-Generator",
+            "image_urls": [
+                "/images/project_5/small.png",
+                "/images/project_5/large.png"
+            ]
+
         }
     ]
 }
